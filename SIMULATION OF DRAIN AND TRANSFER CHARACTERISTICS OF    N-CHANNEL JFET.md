@@ -24,10 +24,22 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
+##JFET Drain Characteristics :
+
+
+![WhatsApp Image 2025-11-24 at 15 34 50_e9c17f6a](https://github.com/user-attachments/assets/9214ec2d-463f-4fcd-908d-9963675784b9)
+
+## JFET Transfer Characteristics:
+![WhatsApp Image 2025-11-24 at 15 35 25_d1d29682](https://github.com/user-attachments/assets/97f154d2-bd06-4720-a8a7-7dba5833b08b)
 
 
 
 ## OUTPUT GRAPH:
+## JFET Drain Characteristics :
+![WhatsApp Image 2025-11-24 at 15 35 12_bf428309](https://github.com/user-attachments/assets/c2267d4e-6be2-48a0-97f6-a77f1f187cb7)
+
+## JFET Transfer Characteristics:
+![WhatsApp Image 2025-11-24 at 15 35 36_2a303704](https://github.com/user-attachments/assets/5fd897c9-58f3-4fdf-9423-decc147a2878)
 
 
 ## RESULT:
