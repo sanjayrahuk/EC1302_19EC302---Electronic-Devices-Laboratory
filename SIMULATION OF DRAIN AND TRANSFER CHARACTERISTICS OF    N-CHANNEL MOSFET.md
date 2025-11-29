@@ -25,9 +25,21 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+## MOSFET Drain Characteristics :
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70487c72-ef68-4b4d-8677-e766f13810ac" />
+
+## MOSFET Transfer Characteristics:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8bab43b-33f3-4e8c-9532-906865998cab" />
 
 
 ## OUTPUT GRAPH:
+## MOSFET Drain Characteristics :
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/284e8c40-44eb-414a-b5cb-5f23fd9f300a" />
+
+## MOSFET Transfer Characteristics:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26a9c7bc-9790-4259-8ad8-06a8cb315efa" />
 
 
 ## RESULT:
